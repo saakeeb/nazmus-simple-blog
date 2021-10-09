@@ -4,7 +4,7 @@
     "palette": "yellow",
     "header": {
         "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "Nazmus's Blog",
         "logo_img": "images/logo.svg",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
@@ -72,5 +72,6 @@
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    }
+    },
+    "domain": "https://nazmus-simple-blog-14b6f.netlify.app"
 }
