@@ -13,7 +13,7 @@ excerpt: >-
 date: '2020-04-28'
 thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw.png
 thumb_img_alt: create react app
-content_img_path: images/10.jpg
+content_img_path: /images/Polygon Luminary.svg
 seo:
   title: Fox Village In Japan
   description: >-
