@@ -20,7 +20,7 @@ seo:
         web applications in an effective way. It ...
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/1_APxIYY2fRfOSXoOLWsNvPw-02697c2f.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
