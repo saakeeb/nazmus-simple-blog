@@ -1,8 +1,9 @@
 ---
 title: How to create react app
 subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+  React uses javascript library to create efficient user interfaces of web
+  application in effective way. It helps us to compose small pieces of code from
+  complex UIs. It’ll update the...
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
