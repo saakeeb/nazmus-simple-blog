@@ -4,7 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: How to create react app
-  description: The preview of the Fjord theme
+  description: >-
+    React uses the javascript library to create efficient user interfaces of web
+    applications in an effective way. It ...
   extra:
     - name: 'og:type'
       value: website
