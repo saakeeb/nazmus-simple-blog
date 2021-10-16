@@ -48,19 +48,53 @@ seo:
 layout: post
 hide_header: false
 ---
+React uses the javascript library to create efficient user interfaces of web applications in an effective way. It helps us to compose small pieces of code from complex UIs. It’ll update the right component when data changes and allow us to create fast and simple web applications.
 
-Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
 
-> The fox never found a better messenger than himself.
 
-As the programming of <a title="Japan" href="http://en.wikipedia.org/wiki/Japan" target="_blank">Japan’s</a> traditional culture gradually weakened from 1945 on, individual Japanese began to exercise some personal choice in their private lives. But the newly mandated freedoms had a minimal effect on a number of key institutions.
 
-Japan’s educational, economical and political systems remained hidebound bulwarks of traditional behavior. The politically guided economic system in particular was able to generate enormous power that could be directed with the precision of a laser beam.
 
-Twelve species belong to the monophyletic group of Vulpes genus of **"true foxes"**. Approximately another 25 current or extinct species are always or sometimes called foxes; these foxes are either part of the paraphyletic group of the South American foxes, or of the outlying group, which consists of bat-eared fox, gray fox, and island fox. Foxes are found on every continent except Antarctica. By far the most common and widespread species of fox is the red fox *(Vulpes vulpes)* with about 47 recognized subspecies. 
 
-> The fox changes his fur but not his habits.
+First of all, you’ve to install “NodeJs”. If you don’t have “NodeJs” in your local machine then you should install it from [here](https://nodejs.org/en/download). You’ve to install the LTS Version of NodeJs according to the bit of your computer.
 
-The global distribution of foxes, together with their widespread reputation for cunning, has contributed to their prominence in popular culture and folklore in many societies around the world. The hunting of foxes with packs of hounds, long an established pursuit in Europe, especially in the British Isles, was exported by European settlers to various parts of the New World. { <a title="Fox" href="https://en.wikipedia.org/wiki/Fox" target="_blank">Source</a> }
+Now we are going to create react app…
 
-The interaction between Japanese and European art has been significant: for example ukiyo-e prints, which began to be exported in the 19th century in the movement known as Japonism, had a significant influence on the development of modern art in the West, most notably on post-Impressionism. Famous ukiyo-e artists include Hokusai and Hiroshige. The fusion of traditional woodblock printing and Western art led to the creation of manga, a comic book format that is now popular within and outside Japan. Manga-influenced animation for television and film is called anime. Japanese-made video game consoles have been popular since the 1980s. { <a title="Ise Grand Shrine" href="http://en.wikipedia.org/wiki/Ise_Grand_Shrine" target="_blank">Source</a> }
+F*irst command: “**npx create-react-app first*****-app***”*
+
+
+
+                                 ![](https://preview--nazmus-simple-blog-14b6f.stackbit.dev/\_static/app-assets/images/1\_cJrTgmUdEdJAlvaESYnFuA.png)
+
+It will take some time to install.
+
+
+
+If you’ve previously installed “***create-react-app***” globally via “***npm install -g create-react-app***”, we recommend you uninstall the package using “***npm uninstall -g create-react-app***” to ensure that npx always uses the latest version.
+
+[*“**npx***](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)*” is a package runner tool that comes with np*m 5.2+ an*d higher. It is easier to work with updated versions for being *competitive with browser and vs code.
+
+“***create-react-app***” is the command to build the react app.
+
+“***first-app***” is the command we where we’ve to be careful. This will be our app name so we’ve to choose a meaningful name here. Here we’ve used the “***first-app***” name to create our react app. Every time we want to create a react app we’ve to choose a name that is something related to our work that can express our goal.
+
+                                      ![](/images/2-da3c4231.png)
+
+Here we can see in the terminal window that npx is downloading the necessary data to run react app.
+
+                                      ![](/images/3.png)
+
+Here we can see react app installation complete message in terminal window.
+
+After installation it will create a directory called “***first-app***” inside the current folder of your desired location.
+Inside that directory, it will generate the initial project structure and install all the transitive dependencies.
+
+
+
+Here we can see no configuration or complicated folder structures is there, just only the files you will need to build your app.
+Now, you can open your directory as the installation is done.
+
+                                   ![](/images/4.png)
+
+Here *node_modules* is full with many folders made by react developers. There are many webpack and babel preconfigured and hidden in ![](/images/5.png)here. So you don't have to focus on this folder. As a beginner, you just ignore the folder and don't touch it.
+
+
