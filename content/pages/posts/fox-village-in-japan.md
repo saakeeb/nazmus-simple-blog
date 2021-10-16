@@ -5,11 +5,9 @@ subtitle: >-
   application in effective way. It helps us to compose small pieces of code from
   complex UIs. It’ll update the...
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  React uses javascript library to create efficient user interfaces of web
+  application in effective way. It helps us to compose small pieces of code from
+  complex UIs. It’ll update the...
 date: '2020-04-28'
 thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw.png
 thumb_img_alt: create react app
