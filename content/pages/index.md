@@ -31,8 +31,5 @@ seo:
       value: >-
         React uses the javascript library to create efficient user interfaces of
         web applications in an effective way. It ...
-    - name: 'twitter:image'
-      value: images/home.jpg
-      relativeUrl: true
 layout: home
 ---
