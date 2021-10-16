@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: How to create react app
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: >-
+        React uses the javascript library to create efficient user interfaces of
+        web applications in an effective way. It ...
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
