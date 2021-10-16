@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japann
+title: How to create react app
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
