@@ -15,7 +15,9 @@ seo:
       value: How to create react app
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: >-
+        React uses the javascript library to create efficient user interfaces of
+        web applications in an effective way. It ...
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
