@@ -7,7 +7,8 @@ subtitle: >-
 excerpt: >-
   React uses javascript library to create efficient user interfaces of web
   application in effective way. It helps us to compose small pieces of code from
-  complex UIs. It’ll update the...
+  complex UIs. It’ll update the right component when data changes and allow us
+  to create fast and simple web application. First of all you’ve to install...
 date: '2020-04-28'
 thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw.png
 thumb_img_alt: create react app
