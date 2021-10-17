@@ -79,19 +79,13 @@ Here we are going to discuss *the **.gitignor*** file. The file that we don’t
 
 ![](/images/9.png)
 
-
-
 In the package.json file, we can see that the dependencies file will store in here. Web apps may require other dependencies than we have to install them, other dependencies files will also store in here.
-
-
 
 After the first command, we’ve familiar with react app directory. Now we are going to command our code to launch the app.
 
 > *Second Command: “**cd first-app**”*
 
 Here cd means change directory. We are going to change our directory to connect vs code to app file stored in the directory.
-
-
 
 > *Third Command: “**npm start**”*
 
@@ -104,5 +98,4 @@ In the browser, we can see port: <http://localhost:3000/> which is launching o
 ![](/images/11.png)
 Congratulation you’ve created your first react app. Now explore...
 
-
-If you wanna learn more about react, you can read the official documentation of react here https://reactjs.org/docs/create-a-new-react-app.html
+If you wanna learn more about react, you can read the official documentation of react \<a href='https://reactjs.org/docs/create-a-new-react-app.html' target="\_blank" rel="noopener noreferrer"> here\</a> 
