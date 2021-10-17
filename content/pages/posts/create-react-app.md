@@ -21,3 +21,16 @@ layout: post
 thumb_img_path: /images/feature.png
 content_img_path: /images/Polygon Luminary-4eb18c27.svg
 ---
+React uses the javascript library to create efficient user interfaces of web applications in an effective way. It helps us to compose small pieces of code from complex UIs. It’ll update the right component when data changes and allow us to create fast and simple web applications.   
+
+First of all, you’ve to install “NodeJs”. If you don’t have “NodeJs” in your local machine then you should install it from [here](https://nodejs.org/en/download). You’ve to install the LTS Version of NodeJs according to the bit of your computer.
+
+Now we are going to create react app…
+
+> *First command: “**npx create-react-app first ***-app**”**
+
+
+
+
+
+It will take some time to install.
