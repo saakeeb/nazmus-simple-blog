@@ -5,7 +5,7 @@ subtitle: >-
   application in effective way. It helps us to compose small pieces of code from
   complex UIs. It’ll update the...
 date: '2020-04-28'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: How to create react app
 excerpt: lorem-ipsum
 hide_header: false
 seo:
