@@ -4,7 +4,7 @@ subtitle: >-
   React uses javascript library to create efficient user interfaces of web
   application in effective way. It helps us to compose small pieces of code from
   complex UIs. It’ll update the...
-date: '2020-04-17'
+date: '2020-04-28'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
