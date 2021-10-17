@@ -14,7 +14,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/Polygon Luminary-d9b2ef33.svg
+thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw-1494cac6.png
 ---
 ## Lorem ipsum
 
