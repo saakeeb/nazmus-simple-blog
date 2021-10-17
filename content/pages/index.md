@@ -9,7 +9,7 @@ seo:
     applications in an effective way. It ...
   extra:
     - name: 'og:type'
-      value: 'https://nazmus-simple-blog.netlify.app/posts/fox-village-in-japan/'
+      value: 'https://nazmus-simple-blog.netlify.app/posts/create-react-app/'
       keyName: property
     - name: 'og:title'
       value: How to create react app
