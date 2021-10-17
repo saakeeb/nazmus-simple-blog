@@ -1,6 +1,9 @@
 ---
 title: How to create react app
-subtitle: lorem-ipsum
+subtitle: >-
+  React uses javascript library to create efficient user interfaces of web
+  application in effective way. It helps us to compose small pieces of code from
+  complex UIs. It’ll update the...
 date: '2021-10-17'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
