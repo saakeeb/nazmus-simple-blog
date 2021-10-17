@@ -21,9 +21,3 @@ layout: post
 thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw-1494cac6.png
 content_img_path: /images/Polygon Luminary-4eb18c27.svg
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
