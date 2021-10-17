@@ -47,7 +47,7 @@ Here we can see in the terminal window that npx is downloading the necessary dat
 
 ![](/images/3-59524b2e.png)
 
-Here we can see react app installation complete message in the terminal window.  
+Here we can see react app installation complete message in the terminal window.
 
 After installation, it will create a directory called “***first-app***” inside the current folder of your desired location.
 Inside that directory, it will generate the initial project structure and install all the transitive dependencies.
@@ -73,7 +73,36 @@ As a developer, all your focus will be in\* the src\* folder. In this folder, 
 
 your app file is here. Here you can create a folder as your requirement, you can create a folder later you can import a file of the folder in the vs code.
 
-
+![](/images/8-39a13188.png)
 
 Here we are going to discuss *the **.gitignor*** file. The file that we don’t wanna share in public or push in Github, will store here.
 
+![](/images/9.png)
+
+
+
+In the package.json file, we can see that the dependencies file will store in here. Web apps may require other dependencies than we have to install them, other dependencies files will also store in here.
+
+
+
+After the first command, we’ve familiar with react app directory. Now we are going to command our code to launch the app.
+
+> *Second Command: “**cd first-app**”*
+
+Here cd means change directory. We are going to change our directory to connect vs code to app file stored in the directory.
+
+
+
+> *Third Command: “**npm start**”*
+
+In this command, npm will launch the app. A new window will open in the browser. In vs code, we can see the successful compilation message.
+
+![](/images/10.png)
+
+In the browser, we can see port: <http://localhost:3000/> which is launching our app.
+
+![](/images/11.png)
+Congratulation you’ve created your first react app. Now explore...
+
+
+If you wanna learn more about react, you can read the official documentation of react here https://reactjs.org/docs/create-a-new-react-app.html
