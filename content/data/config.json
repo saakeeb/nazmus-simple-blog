@@ -5,9 +5,9 @@
     "header": {
         "title": "Fjord",
         "tagline": "Nazmus's Blog",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/new1-removebg-preview.png",
         "logo_img_alt": "Fjord Logo",
-        "background_img": "images/header-bg.jpg",
+        "background_img": "/images/Polygon Luminary-4eb18c27.svg",
         "has_nav": true,
         "nav_links": [
             {
@@ -74,5 +74,5 @@
         "content": "&copy; Nazmus Sakib. All rights reserved. This site was created with ❤️ by Nazmus Sakib",
         "links": []
     },
-    "domain": "https://nazmus-simple-blog.netlify.app/"
+    "domain": "https://nazmus-simple-blog.netlify.app/posts/create-react-app/"
 }
