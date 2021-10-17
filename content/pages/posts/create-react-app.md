@@ -18,6 +18,6 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/1_APxIYY2fRfOSXoOLWsNvPw-1494cac6.png
+thumb_img_path: /images/feature.png
 content_img_path: /images/Polygon Luminary-4eb18c27.svg
 ---
