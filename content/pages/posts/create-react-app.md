@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsu
+title: How to create react app
 subtitle: lorem-ipsum
 date: '2021-10-17'
 thumb_img_alt: lorem-ipsum
