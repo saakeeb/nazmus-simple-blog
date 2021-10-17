@@ -29,14 +29,11 @@ Now we are going to create react app…
 
 > \*First command: “\**npx create-react-app first **-app**”*
 
-
-
 ![](/images/1-838f4c4b.png)
 
 It will take some time to install.
 
-If you’ve previously installed “***create-react-app***” globally via “***npm install -g create-react-app***”, we recommend you uninstall the package using “***npm uninstall -g create-react-app***” to ensure that npx always uses the latest version.  
-
+If you’ve previously installed “***create-react-app***” globally via “***npm install -g create-react-app***”, we recommend you uninstall the package using “***npm uninstall -g create-react-app***” to ensure that npx always uses the latest version.
 
 [*“**npx***](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)*” is a package runner tool that comes with np*m 5.2+ and higher. It is easier to work with updated versions for being \*competitive with browser and vs code.
 
@@ -47,3 +44,36 @@ If you’ve previously installed “***create-react-app***” globally via “**
 ![](/images/2-8ad36a08.png)
 
 Here we can see in the terminal window that npx is downloading the necessary data to run react app.
+
+![](/images/3-59524b2e.png)
+
+Here we can see react app installation complete message in the terminal window.  
+
+After installation, it will create a directory called “***first-app***” inside the current folder of your desired location.
+Inside that directory, it will generate the initial project structure and install all the transitive dependencies.
+
+Here we can see no configuration or complicated folder structures is there, just only the files you will need to build your app.
+Now, you can open your directory as the installation is done.
+
+![](/images/4-9eb15382.png)
+
+Here *node_modules* is full with many folders made by react developers. There are many webpack and babel preconfigured and hidden here. So you don't have to focus on this folder. As a beginner, you just ignore the folder and don't touch it.
+
+![](/images/5-6ed61514.png)
+
+The public folder contains the *index.html* file and favicon for the website and other logos. If you want to change the favicon you’ve to replace the favicon here or
+
+![](/images/6.png)
+
+you can change the code in vs code to get a new favicon.
+
+As a developer, all your focus will be in\* the src\* folder. In this folder, you will put
+
+![](/images/7.png)
+
+your app file is here. Here you can create a folder as your requirement, you can create a folder later you can import a file of the folder in the vs code.
+
+
+
+Here we are going to discuss *the **.gitignor*** file. The file that we don’t wanna share in public or push in Github, will store here.
+
