@@ -98,4 +98,5 @@ In the browser, we can see port: <http://localhost:3000/> which is launching o
 ![](/images/11.png)
 Congratulation you’ve created your first react app. Now explore...
 
-If you wanna learn more about react, you can read the official documentation of react \<a href='https://reactjs.org/docs/create-a-new-react-app.html' target="\_blank" rel="noopener noreferrer"> here\</a> 
+If you wanna learn more about react, you can read the official documentation of react here https://reactjs.org/docs/create-a-new-react-app.html
+
