@@ -71,7 +71,17 @@
         ]
     },
     "footer": {
-        "content": "&copy; Nazmus Sakib. All rights reserved. This site was created with ❤️ by Nazmus Sakib"
+        "content": "&copy; Nazmus Sakib. All rights reserved. This site was created with ❤️ by Nazmus Sakib",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
     "domain": "https://nazmus-simple-blog.netlify.app/"
 }
